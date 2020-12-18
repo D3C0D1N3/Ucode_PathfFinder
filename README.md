@@ -10,7 +10,7 @@ make clean - Delete binary file
 Запуск Pathfinder
 
 ````bash
-./pathfinder ($file$)
+./pathfinder [file]
 ````
 В качестве входных агрументов утилита принимает текстовый файл с инструкцией: 
 ````c++
